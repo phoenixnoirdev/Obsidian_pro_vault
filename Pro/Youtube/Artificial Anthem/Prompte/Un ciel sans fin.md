@@ -46,5 +46,3 @@ Les comètes passent, les météores défilent,
 Mais je suis là, prêt à partir encore.
 Chaque étoile est un défi, un repère,
 Dans l’immensité, je me trouve, je m’élève.
-
-
