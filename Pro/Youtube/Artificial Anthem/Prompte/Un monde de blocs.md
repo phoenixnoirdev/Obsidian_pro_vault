@@ -39,6 +39,5 @@ Minecraft, c'est un voyage sans fin,
 Un monde où tout est possible, et où je me sens bien.
 
 
-#youtube
 #ArtificialAnthem 
 #ArtificialAnthem/prompte

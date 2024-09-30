@@ -48,7 +48,6 @@ Chaque étoile est un défi, un repère,
 Dans l’immensité, je me trouve, je m’élève.
 
 
-#youtube
 #ArtificialAnthem 
 #ArtificialAnthem/prompte
 
