@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3247036cd706413",
+        "id": "ccccca7e761ca774",
         "type": "tabs",
         "children": [
           {
-            "id": "a19d3044b122f410",
+            "id": "3f58973819f28c51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Youtube/Sans titre.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Youtube/Sans titre.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,10 +143,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a19d3044b122f410",
+  "active": "3f58973819f28c51",
   "lastOpenFiles": [
-    "Pro/Youtube/Sans titre.md",
+    "Pro/Youtube/Artificial Anthem/Youtube Artificial Anthem.md",
     "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md",
+    "Pro/Youtube/Sans titre.md",
+    "Pro/Youtube/Artificial Anthem",
     "Pro/Youtube/ggfhgfhgfh.md",
     "Pro/Youtube/PhoenixnoirOffi",
     "Pro/Youtube/sdfsdfsdfsdfsdf.md",
