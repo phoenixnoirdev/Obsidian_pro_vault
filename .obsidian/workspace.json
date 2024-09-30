@@ -11,12 +11,8 @@
             "id": "74d1f37d74e0b4ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,10 +145,10 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Mediegame/Médiégame.md",
+    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
-    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
-    "Pro/Mediegame/Médiégame.md",
     "Pro/Mediegame/Youtube/Médiégame - YT.md",
     "Pro/Mediegame/Youtube/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",

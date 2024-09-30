@@ -13,5 +13,4 @@ Que vous soyez un passionné de musique ou simplement curieux de découvrir comm
 
 - [[Pro/Youtube/Artificial Anthem/Musique/Musique|Musique]]
 
-#pro
 #youtube
