@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccccca7e761ca774",
+        "id": "8c5d0dd27eb5edda",
         "type": "tabs",
         "children": [
           {
-            "id": "3f58973819f28c51",
+            "id": "9547fef20a8dfc0d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -143,8 +143,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f58973819f28c51",
+  "active": "9547fef20a8dfc0d",
   "lastOpenFiles": [
+    "Pro/Youtube/Artificial Anthem/Sans titre.md",
     "Pro/Youtube/Artificial Anthem/Youtube Artificial Anthem.md",
     "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md",
     "Pro/Youtube/Sans titre.md",
