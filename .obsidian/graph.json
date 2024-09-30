@@ -32,7 +32,7 @@
       "query": "path:Pro/Mediegame  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 1405973
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 18.8541666666667,
   "linkStrength": 1,
   "linkDistance": 106,
-  "scale": 0.5087618855792706,
+  "scale": 0.3628873693012202,
   "close": false
 }

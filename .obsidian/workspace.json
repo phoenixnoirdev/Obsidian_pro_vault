@@ -11,8 +11,12 @@
             "id": "74d1f37d74e0b4ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Mediegame/Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Mediegame/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Mediegame/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Mediegame/Sans titre.md"
+              }
             }
           }
         ],
@@ -145,7 +153,8 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
-    "Pro/Mediegame/Youtube/Médiégame.md",
+    "Pro/Mediegame/Youtube/Médiégame - YT.md",
+    "Pro/Mediegame/Sans titre.md",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Mediegame/Youtube/Playtest/Playtest.md",
@@ -180,7 +189,6 @@
     "Sans titre.canvas",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un monde de blocs.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un ciel sans fin.md"
+    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un monde de blocs.md"
   ]
 }
