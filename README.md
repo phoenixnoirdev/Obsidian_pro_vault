@@ -1,2 +1,2 @@
-# Obsidian_backup
-Backup Obsidian note
+# Obsidian vault Pro
+Backup Obsidian vault Pro

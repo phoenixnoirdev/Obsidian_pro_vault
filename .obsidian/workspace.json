@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a965ce9f6dd8f010",
+        "id": "789ea2029c2aaee0",
         "type": "tabs",
         "children": [
           {
-            "id": "5d513fc72494f428",
+            "id": "7eb39e31dbac00b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -139,9 +143,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d513fc72494f428",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
-    "README.md",
-    "etezetertredt.md"
+    "etezetertredt.md",
+    "README.md"
   ]
 }
