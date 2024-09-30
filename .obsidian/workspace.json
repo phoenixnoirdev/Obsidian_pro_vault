@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Mediegame/Médiégame.md",
+                "file": "Pro/Mediegame/Musique/Musique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Mediegame/Médiégame.md",
+                "file": "Pro/Mediegame/Musique/Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Mediegame/Médiégame.md",
+                "file": "Pro/Mediegame/Musique/Musique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Mediegame/Médiégame.md"
+                "file": "Pro/Mediegame/Musique/Musique.md"
               }
             }
           }
@@ -153,8 +153,10 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
-    "Pro/Mediegame/Musique",
+    "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
+    "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Médiégame.md",
+    "Pro/Mediegame/Musique",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
@@ -182,11 +184,9 @@
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
-    "Pro/Twitch/Phoenixnoir/Playtest",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix Fin de stream.md",
-    "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
     "Sans titre.canvas",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md"
