@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Youtube/sdfsdfsdfsdfsdf.md",
+                "file": "Pro/Youtube/Sans titre.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/sdfsdfsdfsdfsdf.md",
+                "file": "Pro/Youtube/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/sdfsdfsdfsdfsdf.md",
+                "file": "Pro/Youtube/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/sdfsdfsdfsdfsdf.md"
+                "file": "Pro/Youtube/Sans titre.md"
               }
-            }
-          },
-          {
-            "id": "128d4c9143688cd1",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "f013c8cddb744f6b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,6 +154,7 @@
   },
   "active": "da74fb86b8cda6b0",
   "lastOpenFiles": [
+    "Pro/Youtube/Sans titre.md",
     "Pro/Youtube/sdfsdfsdfsdfsdf.md",
     "Pro/Youtube",
     "Pro/sdf.md",
