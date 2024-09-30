@@ -11,8 +11,12 @@
             "id": "4b5f8a435e8bf30e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md"
+              }
             }
           }
         ],
@@ -145,20 +153,20 @@
   },
   "active": "4b5f8a435e8bf30e",
   "lastOpenFiles": [
+    "Pro/Youtube/Artificial Anthem/- Artificial Anthem.md",
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Youtube/Artificial Anthem/Prompte/- Prompte Liste.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Un monde de blocs.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Un ciel sans fin.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Aventure souterraine.md",
-    "Pro/Youtube/PhoenixnoirOffi/test.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte",
     "Pro/Youtube/PhoenixnoirOffi/Musique",
     "Pro/Youtube/Artificial Anthem/Prompte",
     "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/qsfsd.md",
     "Pro/Youtube/Artificial Anthem/Sans titre 1.md",
-    "Pro/Youtube/Artificial Anthem/Sans titre.md",
     "Pro/Youtube/Artificial Anthem/Youtube Artificial Anthem.md",
     "Pro/Youtube/Sans titre.md",
     "Pro/Youtube/Artificial Anthem",
