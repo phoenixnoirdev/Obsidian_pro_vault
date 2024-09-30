@@ -8,8 +8,9 @@ Notre guilde te permettra aussi de profiter d'une salle de jeux de la Réalité 
 
 Prochainement notre chef inaugurera un escape room. Oserez-vous vous frotter à la colère de nos gardiens à écailles? Draknir notre dragon vert vous attends avec impatience.
 
+[Youtube](https://www.youtube.com/@mediegame)
 
-[[https://www.youtube.com/@mediegame|Youtube]]
+
 
 Emission:
 - [[Pro/Mediegame/Youtube/Playtest/Playtest|Playtest]]

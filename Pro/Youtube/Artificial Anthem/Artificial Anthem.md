@@ -7,7 +7,7 @@ Plongez dans un univers où la technologie et la créativité se rencontrent. Su
 
 Que vous soyez un passionné de musique ou simplement curieux de découvrir comment l'IA façonne le son, abonnez vous pour des morceaux uniques, des playlists immersives et des voyages sonores inédits. 🎧🚀
 
-[[https://www.youtube.com/@ArtificialAnthem|Youtube]]
+[Youtube](https://www.youtube.com/@ArtificialAnthem)
 
 
 

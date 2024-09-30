@@ -34,6 +34,27 @@
         "a": 1,
         "rgb": 1405973
       }
+    },
+    {
+      "query": "path:Pro/Developpement  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Pro/Developpement/Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 14604315
+      }
+    },
+    {
+      "query": "tag:#java  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.04778763710962629,
-  "close": true
+  "scale": 0.1634837056722055,
+  "close": false
 }
