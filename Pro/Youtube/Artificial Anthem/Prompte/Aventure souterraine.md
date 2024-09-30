@@ -44,7 +44,3 @@ Sous la terre, où la lumière s’évanouit.
 Je creuse, je cherche, toujours plus bas,
 Dans ces cavernes, mon aventure éclate.
 
-
-
-#ArtificialAnthem 
-#ArtificialAnthem/prompte
