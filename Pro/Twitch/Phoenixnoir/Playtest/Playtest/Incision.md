@@ -5,7 +5,7 @@
 
 Assurez-vous de rediriger vos spectateurs vers la page Steam - 
 https://store.steampowered.com/app/1734680/INCISION/ pour télécharger le jeu.
-Utilisez le hashtag #INCISION sur les réseaux sociaux ou identifiez 
+Utilisez le hashtag  INCISION sur les réseaux sociaux ou identifiez 
 @hyperstrange
 
 
