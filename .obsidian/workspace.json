@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2f9b924d6508c7",
+        "id": "20d39f72d3194015",
         "type": "tabs",
         "children": [
           {
-            "id": "97f0294df2610cf6",
+            "id": "852b7582ac255549",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "beautitab-react-view",
               "state": {}
             }
           }
@@ -142,10 +142,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "97f0294df2610cf6",
+  "active": "852b7582ac255549",
   "lastOpenFiles": [
-    "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
+    "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/Artificial Anthem",
     "Youtube/PhoenixnoirOffi",
     "Youtube",
