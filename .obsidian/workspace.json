@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1eadda7f90cc1eef",
+        "id": "fe63d760b1b30572",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5f8a435e8bf30e",
+            "id": "74d1f37d74e0b4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Playtest Blanc.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Playtest Blanc.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Playtest Blanc.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Playtest Blanc.md"
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md"
               }
             }
           }
@@ -151,10 +151,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4b5f8a435e8bf30e",
+  "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Playtest Blanc.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
     "Pro/Twitch/Phoenixnoir/Playtest",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
@@ -188,7 +189,6 @@
     "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/PhoenixnoirOffi/Sans titrejkhgjkh,bjhgf.md",
     "Youtube/Artificial Anthem/Sans titre.md",
-    "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
-    "Youtube/PhoenixnoirOffi/dsfsdf.md"
+    "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md"
   ]
 }
