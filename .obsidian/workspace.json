@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Mediegame/Youtube/Médiégame.md",
+                "file": "Pro/Mediegame/Youtube/Playtest/Playtest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Mediegame/Youtube/Médiégame.md",
+                "file": "Pro/Mediegame/Youtube/Playtest/Playtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Mediegame/Youtube/Médiégame.md",
+                "file": "Pro/Mediegame/Youtube/Playtest/Playtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Mediegame/Youtube/Médiégame.md"
+                "file": "Pro/Mediegame/Youtube/Playtest/Playtest.md"
               }
             }
           }
@@ -153,8 +153,12 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
     "Pro/Mediegame/Youtube/Médiégame.md",
+    "Pro/Mediegame/Youtube/Playtest",
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Mediegame/Twitch",
     "Pro/Mediegame/Youtube",
     "Pro/Developpement/JAVA",
@@ -163,8 +167,6 @@
     "Pro/Sans titre.md",
     "Pro/Ecole 42",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Paris Transylvania - A Pachinko Roguelike Deckbuilder.md",
-    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest",
@@ -185,10 +187,8 @@
     "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
     "Sans titre.canvas",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
-    "Pro/Twitch/Phoenixnoir",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un monde de blocs.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un ciel sans fin.md",
-    "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md"
+    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un ciel sans fin.md"
   ]
 }

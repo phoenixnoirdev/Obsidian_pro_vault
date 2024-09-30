@@ -12,7 +12,7 @@ Prochainement notre chef inaugurera un escape room. Oserez-vous vous frotter à 
 [[https://www.youtube.com/@mediegame|Youtube]]
 
 Emission:
-- [[Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest|Playtest]]
+- 
 
 
 
