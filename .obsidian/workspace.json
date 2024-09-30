@@ -11,8 +11,12 @@
             "id": "74d1f37d74e0b4ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md"
+              }
             }
           }
         ],
@@ -145,6 +153,7 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
@@ -180,7 +189,6 @@
     "Pro/Youtube/ggfhgfhgfh.md",
     "Pro/Youtube/PhoenixnoirOffi",
     "Pro/Youtube/sdfsdfsdfsdfsdf.md",
-    "Pro/sdf.md",
-    "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md"
+    "Pro/sdf.md"
   ]
 }
