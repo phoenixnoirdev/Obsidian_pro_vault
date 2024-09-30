@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Mediegame/Musique/Musique.md",
+                "file": "Pro/Mediegame/Médiégame.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Mediegame/Musique/Musique.md",
+                "file": "Pro/Mediegame/Médiégame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Mediegame/Musique/Musique.md",
+                "file": "Pro/Mediegame/Médiégame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Mediegame/Musique/Musique.md"
+                "file": "Pro/Mediegame/Médiégame.md"
               }
             }
           }
@@ -153,12 +153,12 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Mediegame/Médiégame.md",
     "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Musique/Prompte/Médiégame la guilde des héros.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
     "Pro/Mediegame/Musique/Prompte",
-    "Pro/Mediegame/Médiégame.md",
     "Pro/Mediegame/Musique",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
