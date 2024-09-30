@@ -11,12 +11,8 @@
             "id": "4b5f8a435e8bf30e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Musique/Musique.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,18 +145,18 @@
   },
   "active": "4b5f8a435e8bf30e",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix Fin de stream.md",
+    "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
-    "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
     "Sans titre.canvas",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Twitch/Phoenixnoir",
     "Pro/Twitch",
     "Pro/Sans titre.md",
-    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un monde de blocs.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un ciel sans fin.md",
