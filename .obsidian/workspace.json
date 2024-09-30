@@ -11,58 +11,15 @@
             "id": "f66109f497d832cd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
-            }
-          },
-          {
-            "id": "193050e797464369",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
-            }
-          },
-          {
-            "id": "ff6b53e0a8bee3a8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
-            }
-          },
-          {
-            "id": "736b5a4cf80a9b58",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Sans titre.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sans titre.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sans titre.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sans titre.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,11 +150,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "31965652bc8d35a8",
+  "active": "f66109f497d832cd",
   "lastOpenFiles": [
+    "Sans titre.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
-    "Sans titre.md",
     "etezetertredt.md",
     "README.md"
   ]
