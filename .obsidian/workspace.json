@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Mediegame/Youtube/PhoenixnoirOffi 1.md",
+                "file": "Pro/Mediegame/Youtube/Médiégame.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Mediegame/Youtube/PhoenixnoirOffi 1.md",
+                "file": "Pro/Mediegame/Youtube/Médiégame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Mediegame/Youtube/PhoenixnoirOffi 1.md",
+                "file": "Pro/Mediegame/Youtube/Médiégame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Mediegame/Youtube/PhoenixnoirOffi 1.md"
+                "file": "Pro/Mediegame/Youtube/Médiégame.md"
               }
             }
           }
@@ -151,10 +151,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "31965652bc8d35a8",
+  "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-    "Pro/Mediegame/Youtube/PhoenixnoirOffi 1.md",
+    "Pro/Mediegame/Youtube/Médiégame.md",
     "Pro/Mediegame/Twitch",
     "Pro/Mediegame/Youtube",
     "Pro/Developpement/JAVA",
