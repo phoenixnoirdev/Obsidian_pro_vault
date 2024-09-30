@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prompte",
+                "query": "tag:#ArtificialAnthem/prompte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md"
+                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md"
               }
             }
           }
@@ -153,10 +154,10 @@
   },
   "active": "c27b373193a97a74",
   "lastOpenFiles": [
+    "Pro/Youtube/Artificial Anthem/Prompte/Un monde de blocs.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte",
-    "Pro/Youtube/Artificial Anthem/Prompte/Un monde de blocs.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique",
     "Pro/Youtube/Artificial Anthem/Prompte/Aventure souterraine.md",
     "Pro/Youtube/PhoenixnoirOffi/test.md",
