@@ -1,3 +1,4 @@
+
 Couplet 1
 Le stream est en pause, mais on reste connectés,
 Phoenixnoir prépare la suite, prêt à s’envoler.
@@ -40,6 +41,7 @@ Dans les mondes des jeux, il nous fait rêver,
 Chaque pause n’est qu’un début pour s’évader.
 
 
+-----------------------------------------------------------
 
 
 [Verse]
@@ -89,8 +91,7 @@ Dans les mondes des jeux, il nous fait rêver,
 Chaque pause n’est qu’un début pour s’évader.
 
 
-
-
+-----------------------------------------------------------
 
 
 [Verse]
@@ -140,3 +141,4 @@ Dans les mondes des jeux, il nous fait rêver,
 Chaque pause n’est qu’un début pour s’évader.
 
 [End]
+
