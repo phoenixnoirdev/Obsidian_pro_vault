@@ -11,12 +11,8 @@
             "id": "da74fb86b8cda6b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube/Artificial Anthem/Sans titre.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube/Artificial Anthem/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Youtube/Artificial Anthem/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +118,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Youtube/Artificial Anthem/Sans titre.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "128d4c9143688cd1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "f013c8cddb744f6b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,13 +156,14 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "da74fb86b8cda6b0",
   "lastOpenFiles": [
-    "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
     "Youtube/Artificial Anthem/Sans titre.md",
+    "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
     "Youtube/PhoenixnoirOffi/dsfsdf.md",
     "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/Artificial Anthem",

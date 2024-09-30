@@ -6,16 +6,8 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Youtube",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.58020833333333,
