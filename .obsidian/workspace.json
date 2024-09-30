@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Phoenixnoir.md"
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md"
               }
             }
           }
@@ -153,9 +153,11 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
+    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
     "Pro/Twitch/Phoenixnoir/Playtest",
@@ -164,7 +166,6 @@
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix Fin de stream.md",
     "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
-    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Sans titre.canvas",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
     "Pro/Twitch/Phoenixnoir",
@@ -188,7 +189,6 @@
     "Pro/Youtube/sdfsdfsdfsdfsdf.md",
     "Pro/sdf.md",
     "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
-    "Youtube/PhoenixnoirOffi/Sans titrejkhgjkh,bjhgf.md",
-    "Youtube/Artificial Anthem/Sans titre.md"
+    "Youtube/PhoenixnoirOffi/Sans titrejkhgjkh,bjhgf.md"
   ]
 }
