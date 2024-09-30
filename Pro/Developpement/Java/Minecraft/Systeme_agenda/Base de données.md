@@ -24,8 +24,28 @@ Colonne 3:
 	
 	La colonne "date_next" enregistre la date du prochain event.
 
+
+--------------------------------------------------------------------------
+
+
 Au lancement du plugins, on contrôle l'existence du tableau.
 
-
 Si le tableau existe
+	On termine la fonction.
+Sinon
+	On crée les tableau.
 
+
+--------------------------------------------------------------------------
+
+
+Ensuite on charge les données de l'agenda.
+
+Si le tableau contient des données
+	On charge les données et on les sauvegarde dans le plugins.
+Sinon
+	On sort de la fonction.
+
+
+
+--------------------------------------------------------------------------
