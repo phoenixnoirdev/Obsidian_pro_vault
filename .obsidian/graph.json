@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Pro/Youtube/PhoenixnoirOffi  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
       "query": "path:\"Pro/Youtube/Artificial Anthem\" tag:",
       "color": {
         "a": 1,
@@ -22,7 +15,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:test",
       "color": {
         "a": 1,
         "rgb": 11392604
