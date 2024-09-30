@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Sans titre.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md"
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Sans titre.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Sans titre.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
@@ -188,7 +189,6 @@
     "Pro/sdf.md",
     "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/PhoenixnoirOffi/Sans titrejkhgjkh,bjhgf.md",
-    "Youtube/Artificial Anthem/Sans titre.md",
-    "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md"
+    "Youtube/Artificial Anthem/Sans titre.md"
   ]
 }
