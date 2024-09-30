@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "45e8ebbd6f186447",
+  "active": "19a0e959b8ebdac7",
   "lastOpenFiles": [
     "Pro/Youtube/Artificial Anthem/qsfsd.md",
     "Pro/Youtube/Artificial Anthem/Sans titre.md",
