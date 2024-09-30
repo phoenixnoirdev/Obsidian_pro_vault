@@ -4,18 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "789ea2029c2aaee0",
+        "id": "55710b73a9a4b598",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb39e31dbac00b9",
+            "id": "f66109f497d832cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          },
+          {
+            "id": "193050e797464369",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          },
+          {
+            "id": "ff6b53e0a8bee3a8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          },
+          {
+            "id": "736b5a4cf80a9b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etezetertredt.md"
+                "file": "Sans titre.md"
               }
             }
           }
@@ -138,12 +187,18 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "31965652bc8d35a8",
   "lastOpenFiles": [
-    "README.md",
-    "etezetertredt.md"
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Sans titre.md",
+    "etezetertredt.md",
+    "README.md"
   ]
 }
