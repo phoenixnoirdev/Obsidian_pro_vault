@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Sans titre.md",
+                "file": "Pro/Twitch/Phoenixnoir/Sans titre.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Sans titre.md",
+                "file": "Pro/Twitch/Phoenixnoir/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Sans titre.md",
+                "file": "Pro/Twitch/Phoenixnoir/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Sans titre.md"
+                "file": "Pro/Twitch/Phoenixnoir/Sans titre.md"
               }
             }
           }
@@ -153,9 +153,12 @@
   },
   "active": "4b5f8a435e8bf30e",
   "lastOpenFiles": [
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
+    "Pro/Twitch/Phoenixnoir/Musique/Musique.md",
+    "Pro/Twitch/Phoenixnoir/Sans titre.md",
+    "Pro/Twitch/Phoenixnoir",
+    "Pro/Twitch",
     "Pro/Sans titre.md",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix en pause.md",
+    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
@@ -163,9 +166,9 @@
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un monde de blocs.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Un ciel sans fin.md",
     "Pro/Youtube/Artificial Anthem/Musique",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte",
-    "Pro/Youtube/PhoenixnoirOffi/Musique",
+    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md",
+    "Pro/Twitch/Phoenixnoir/Musique/Prompte",
+    "Pro/Twitch/Phoenixnoir/Musique",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte",
     "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/qsfsd.md",
@@ -184,10 +187,7 @@
     "Youtube/Artificial Anthem/Sans titre.md",
     "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
     "Youtube/PhoenixnoirOffi/dsfsdf.md",
-    "Youtube/Artificial Anthem",
-    "Youtube/PhoenixnoirOffi",
     "README.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md"
+    "Untitled Kanban.md"
   ]
 }
