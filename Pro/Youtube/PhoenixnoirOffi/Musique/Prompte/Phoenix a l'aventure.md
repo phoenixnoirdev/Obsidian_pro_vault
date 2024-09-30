@@ -532,10 +532,3 @@ Dans l’univers des jeux, il est notre guide,
 Avec lui, chaque instant devient épopée, solide.
 
 [End]
-
-
-
-
-
-#PhoenixnoirOffi/musique
-#PhoenixnoirOffi/musique/prompte

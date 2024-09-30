@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c8e3dce86e63c2",
+        "id": "1eadda7f90cc1eef",
         "type": "tabs",
         "children": [
           {
-            "id": "c27b373193a97a74",
+            "id": "4b5f8a435e8bf30e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md"
+                "file": "Pro/Youtube/PhoenixnoirOffi/test.md"
               }
             }
           }
@@ -151,15 +151,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c27b373193a97a74",
+  "active": "4b5f8a435e8bf30e",
   "lastOpenFiles": [
+    "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
+    "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/test.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Un monde de blocs.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Un ciel sans fin.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Aventure souterraine.md",
     "Pro/Youtube/Artificial Anthem/Prompte/0 - Prompte Liste.md",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte",
     "Pro/Youtube/PhoenixnoirOffi/Musique",
     "Pro/Youtube/Artificial Anthem/Prompte",
