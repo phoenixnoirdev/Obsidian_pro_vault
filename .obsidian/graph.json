@@ -20,10 +20,17 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:Pro/Youtube",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 2.1671875,
   "lineSizeMultiplier": 2.55,
@@ -32,6 +39,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 0.46875,
   "linkDistance": 272,
-  "scale": 0.5087618855792629,
+  "scale": 0.36288736930121485,
   "close": false
 }
