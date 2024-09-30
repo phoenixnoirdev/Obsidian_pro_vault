@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md"
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md"
               }
             }
           }
@@ -153,6 +153,8 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
@@ -187,8 +189,6 @@
     "Pro/Youtube/Sans titre.md",
     "Pro/Youtube/Artificial Anthem",
     "Pro/Youtube/ggfhgfhgfh.md",
-    "Pro/Youtube/PhoenixnoirOffi",
-    "Pro/Youtube/sdfsdfsdfsdfsdf.md",
-    "Pro/sdf.md"
+    "Pro/Youtube/PhoenixnoirOffi"
   ]
 }
