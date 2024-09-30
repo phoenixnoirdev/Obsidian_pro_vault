@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fe192ef74404da3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube/Artificial Anthem/Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Youtube/Artificial Anthem/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Youtube/Artificial Anthem/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Youtube/Artificial Anthem/Sans titre.md"
+              }
             }
           }
         ]
@@ -142,16 +159,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "da74fb86b8cda6b0",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
-    "Youtube/PhoenixnoirOffi/dsfsdf.md",
+    "Youtube/Artificial Anthem/Sans titre.md",
     "Youtube/Artificial Anthem/sdfsdfsdfsdffsddfsfs.md",
+    "Youtube/PhoenixnoirOffi/dsfsdf.md",
     "Youtube/PhoenixnoirOffi/sdfszehgretytregtreerte.md",
     "Youtube/Artificial Anthem",
     "Youtube/PhoenixnoirOffi",
     "Youtube",
     "README.md",
-    "Sans titre.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "etezetertredt.md"
