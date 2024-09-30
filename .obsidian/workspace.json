@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe63d760b1b30572",
+        "id": "b499dcff88ae6762",
         "type": "tabs",
         "children": [
           {
-            "id": "74d1f37d74e0b4ca",
+            "id": "027283319f10f521",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#twitch",
+                "query": "tag:#youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,9 +143,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "74d1f37d74e0b4ca",
+  "active": "027283319f10f521",
   "lastOpenFiles": [
+    "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
     "Pro/Mediegame/Médiégame.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Paris Transylvania - A Pachinko Roguelike Deckbuilder.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
+    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Musique/Prompte/Médiégame la guilde des héros.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
@@ -156,9 +168,6 @@
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Mediegame/Youtube/Médiégame - YT.md",
-    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
-    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Mediegame/Youtube/Playtest",
     "Pro/Mediegame/Twitch",
     "Pro/Mediegame/Youtube",
@@ -167,20 +176,11 @@
     "Pro/Mediegame",
     "Pro/Sans titre.md",
     "Pro/Ecole 42",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Paris Transylvania - A Pachinko Roguelike Deckbuilder.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest",
     "Pro/Youtube/PhoenixnoirOffi/Sans titre.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
     "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix en pause.md",
-    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix Fin de stream.md",
-    "Sans titre.canvas",
-    "Pro/Twitch/Phoenixnoir/Musique/Prompte/Phoenix a l'aventure.md"
+    "Sans titre.canvas"
   ]
 }
