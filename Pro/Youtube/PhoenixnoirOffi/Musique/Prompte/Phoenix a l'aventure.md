@@ -66,7 +66,7 @@ Avec lui, chaque instant devient épopée, solide.
 
 
 
-
+------------------------------------------------------
 
 
 
@@ -156,9 +156,7 @@ Avec lui, chaque instant devient épopée, solide.
 
 
 
-
-
-
+------------------------------------------------------
 
 
 
@@ -241,8 +239,7 @@ Dans l'univers des jeux, il est notre guide,
 Avec lui, chaque instant devient épopée, solide.
 o-o-h
 
-
-
+------------------------------------------------------
 
 [Couplet 1]
 Le soir, il s'allume, prêt pour l'aventure,
@@ -312,8 +309,7 @@ Phoenixnoir, streameur, créateur, rêveur.
 Dans l'univers des jeux, il est notre guide,
 Avec lui, chaque instant devient épopée, solide.
 
-
-
+------------------------------------------------------
 
 [Instrumental Intro]
 [Bluesy guitar riff with a driving drum beat]
