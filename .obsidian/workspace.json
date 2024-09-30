@@ -11,8 +11,12 @@
             "id": "74d1f37d74e0b4ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#twitch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md"
+              }
             }
           }
         ],
@@ -146,6 +153,10 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest",
+    "Pro/Youtube/PhoenixnoirOffi/Sans titre.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
@@ -155,7 +166,6 @@
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
     "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
     "Pro/Twitch/Phoenixnoir/Playtest",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
@@ -179,9 +189,6 @@
     "Pro/Youtube/Artificial Anthem/qsfsd.md",
     "Pro/Youtube/Artificial Anthem/Sans titre 1.md",
     "Pro/Youtube/Artificial Anthem/Youtube Artificial Anthem.md",
-    "Pro/Youtube/Sans titre.md",
-    "Pro/Youtube/Artificial Anthem",
-    "Pro/Youtube/ggfhgfhgfh.md",
-    "Pro/Youtube/PhoenixnoirOffi"
+    "Pro/Youtube/Artificial Anthem"
   ]
 }
