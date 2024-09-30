@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Pro/Twitch/Phoenixnoir  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 8871126
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.510416666666667,
   "linkDistance": 265,
-  "scale": 0.5087618855792656,
+  "scale": 0.5087618855792658,
   "close": false
 }
