@@ -37,3 +37,8 @@ Le soleil se lève, une nouvelle aventure,
 Je poursuis mes quêtes, au-delà des murs.
 Minecraft, c'est un voyage sans fin,
 Un monde où tout est possible, et où je me sens bien.
+
+
+#youtube
+#ArtificialAnthem 
+#ArtificialAnthem/prompte
