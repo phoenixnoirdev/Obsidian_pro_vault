@@ -537,7 +537,5 @@ Avec lui, chaque instant devient épopée, solide.
 
 
 
-#youtube
-#PhoenixnoirOffi
 #PhoenixnoirOffi/musique
 #PhoenixnoirOffi/musique/prompte

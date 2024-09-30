@@ -6,6 +6,5 @@ Creation de musique destiner au stream.
 	- Phoenix Fin de stream
 
 
-#youtube
 #PhoenixnoirOffi
 #PhoenixnoirOffi/musique

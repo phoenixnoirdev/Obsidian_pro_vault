@@ -11,12 +11,8 @@
             "id": "c27b373193a97a74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ArtificialAnthem/prompte",
+                "query": "tag:#youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,8 +146,8 @@
   "active": "c27b373193a97a74",
   "lastOpenFiles": [
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte/Phoenix a l'aventure.md",
-    "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/Artificial Anthem/Prompte/Un monde de blocs.md",
+    "Pro/Youtube/PhoenixnoirOffi/Musique/Musique.md",
     "Pro/Youtube/PhoenixnoirOffi/Musique/Prompte",
     "Pro/Youtube/PhoenixnoirOffi/Musique",
     "Pro/Youtube/Artificial Anthem/Prompte/Aventure souterraine.md",
