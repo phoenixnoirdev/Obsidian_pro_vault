@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55710b73a9a4b598",
+        "id": "2c2f9b924d6508c7",
         "type": "tabs",
         "children": [
           {
-            "id": "f66109f497d832cd",
+            "id": "97f0294df2610cf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,12 +142,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f66109f497d832cd",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
+    "Youtube/Sans titre",
+    "Youtube",
+    "README.md",
     "Sans titre.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
-    "etezetertredt.md",
-    "README.md"
+    "etezetertredt.md"
   ]
 }
