@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "etezetertredt.md"
+              }
             }
           }
         ]
@@ -139,7 +141,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eb39e31dbac00b9",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
     "README.md",
     "etezetertredt.md"
