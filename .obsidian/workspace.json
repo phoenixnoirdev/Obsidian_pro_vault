@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md"
+                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md"
               }
             }
           }
@@ -153,18 +153,19 @@
   },
   "active": "74d1f37d74e0b4ca",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest/Sans titre.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest",
     "Pro/Youtube/PhoenixnoirOffi/Sans titre.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest Blanc.md",
-    "Pro/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest",
     "Pro/Twitch/Phoenixnoir/Playtest",
@@ -188,7 +189,6 @@
     "Pro/Youtube/PhoenixnoirOffi/Youtube PhoenixnoirOffi.md",
     "Pro/Youtube/Artificial Anthem/qsfsd.md",
     "Pro/Youtube/Artificial Anthem/Sans titre 1.md",
-    "Pro/Youtube/Artificial Anthem/Youtube Artificial Anthem.md",
     "Pro/Youtube/Artificial Anthem"
   ]
 }
