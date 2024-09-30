@@ -1,4 +1,3 @@
-#minecraft
 
 Regroupe les différents projet Minecraft (Plugins)
 
