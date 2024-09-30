@@ -1,4 +1,6 @@
 
 Creation de musique destiner au stream.
 
-	- Prompte - Phoenix a l'aventure
+	- Phoenix a l'aventure
+	- Phoenix en pause
+	- Phoenix Fin de stream
