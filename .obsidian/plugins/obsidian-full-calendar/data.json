@@ -1,0 +1,41 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#429e73",
+      "directory": "Pro/Youtube/Artificial Anthem"
+    },
+    {
+      "type": "local",
+      "color": "#338000",
+      "directory": "Pro/Mediegame"
+    },
+    {
+      "type": "local",
+      "color": "#9000ad",
+      "directory": "Pro/Twitch/Phoenixnoir"
+    },
+    {
+      "type": "local",
+      "color": "#930fc2",
+      "directory": "Pro/Mediegame/Twitch"
+    },
+    {
+      "type": "local",
+      "color": "#1d6100",
+      "directory": "Pro/Mediegame/Youtube"
+    },
+    {
+      "type": "local",
+      "color": "#00b4ff",
+      "directory": "Pro/Youtube/PhoenixnoirOffi/Agenda"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
