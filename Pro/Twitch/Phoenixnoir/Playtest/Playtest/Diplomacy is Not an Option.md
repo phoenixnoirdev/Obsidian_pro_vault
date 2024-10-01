@@ -239,3 +239,62 @@ Comme dans la vraie vie, la bêtise et la cupidité sont à l’origine de la
 plupart des problèmes, mais il est ici bien trop tard pour en discuter. Vous 
 n’avez aucun recours pour résoudre ce problème de manière pacifique. À ce 
 stade, la diplomatie n’est pas une option !
+
+
+
+
+********************************************************************************
+								ANNONCE RESEAU
+********************************************************************************
+
+Discord:
+
+Prêts à défendre votre château ? ⚔️
+
+Ne manquez pas le playtest exclusif de "Diplomacy is Not an Option" le [jour] 
+à [heure] !
+
+Plongez dans un monde médiéval fantastique où chaque décision compte. 
+Construisez votre forteresse, lève des armées et repoussez les hordes ennemies.
+
+Rejoignez-nous en direct sur [Nom de la chaîne Twitch] pour poser vos 
+questions, partager vos 
+
+
+
+
+
+Facebook:
+
+Option 2 : Message plus détaillé avec une vidéo courte
+[Vidéo courte montrant des extraits de gameplay]
+
+Vous êtes prêts à vivre une aventure épique ? ⚔️
+
+Rejoignez-nous pour le playtest de "Diplomacy is Not an Option" ! Construisont 
+notre château, lèvont des armées et affronteont des hordes d'ennemis dans un 
+monde médiéval fantastique.
+
+Rendez-vous le [jour] à [heure] sur [Nom de la chaîne Twitch].
+
+playtest DiplomacyIsNotAnOption RTS médiéval gaming Door407
+
+
+
+
+Créer un événement Facebook
+Titre: Playtest Exclusif : Diplomacy is Not an Option
+Description: Rejoignez-nous pour découvrir en avant-première "Diplomacy is Not 
+An Option", un RTS de survie médiéval épique. Construisez, combattez, 
+et survivez ! ⚔️
+Date et heure: [Date et heure du playtest]
+Lieu: [Lien de votre chaîne Twitch]
+Ajouter une image à la une de l'événement
+
+
+
+
+Quelle faction choisiriez-vous dans Diplomacy is Not an Option ?
+Les chevaliers loyaux
+Les rebelles audacieux
+Les sorciers puissants
