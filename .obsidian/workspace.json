@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,10 +175,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "027283319f10f521",
+  "active": "8360345ba88f1e0b",
   "lastOpenFiles": [
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Boite a idee/Boite a idee.md",
     "Pro/Developpement/Developpement.md",
@@ -205,7 +202,6 @@
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Paris Transylvania - A Pachinko Roguelike Deckbuilder.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
