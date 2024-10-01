@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
+                    "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
                     "mode": "source",
                     "source": false
                   }
@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md"
+              }
             }
           }
         ],
@@ -197,8 +201,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a44c6fa9e1838523",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
+    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
+    "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
+    "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
@@ -212,12 +220,10 @@
     "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-04 Sortie KSP carrière PiafTech  Episode 5.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda",
     "Pro/Youtube/PhoenixnoirOffi/2024-10-01 vfcb.md",
-    "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Youtube/PhoenixnoirOffi/2024-10-01 nbv n.md",
     "Pro/Developpement/Boite a idee/Boite a idee.md",
     "Pro/Developpement/Developpement.md",
@@ -225,8 +231,6 @@
     "Pro/Developpement/Java/Minecraft/Minecraft.md",
     "Pro/Developpement/Boite a idee",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
-    "Pro/Mediegame/Médiégame.md",
-    "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Sans titre",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda",
     "Pro/Developpement/Java/Minecraft",
