@@ -1,11 +1,12 @@
 ---
-title: Sortie Boxes Lost Fragment Chapitre 2, je démonte des boites ^^
+title: "Sortie 1 Jeu = 1 Heure : On se creuse les méninges"
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2024-03-01
+date: 2024-02-23
 completed: 
 tags:
   - agendaytphoenixnoiroffi
   - Boxes-Lost-Fragment
+  - 1-jeu-1-heure
 ---
