@@ -6,5 +6,6 @@ endTime: 18:30
 date: 2024-10-11
 completed: 
 tags:
-  - "#youtube/phoenixnoiroffi/agenda"
+  - "#agendaytphoenixnoiroffi"
+  - KSP
 ---

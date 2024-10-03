@@ -2,11 +2,6 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#429e73",
-      "directory": "Pro/Youtube/Artificial Anthem"
-    },
-    {
-      "type": "local",
       "color": "#338000",
       "directory": "Pro/Mediegame"
     },
@@ -29,6 +24,11 @@
       "type": "local",
       "color": "#00b4ff",
       "directory": "Pro/Youtube/PhoenixnoirOffi/Agenda"
+    },
+    {
+      "type": "local",
+      "color": "#04af8d",
+      "directory": "Pro/Youtube/Artificial Anthem/Agenda"
     }
   ],
   "defaultCalendar": 0,
