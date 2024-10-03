@@ -9,30 +9,27 @@
         "dimension": 78.55329949238579,
         "children": [
           {
-            "id": "1fc914b0fc4a1987",
+            "id": "fff2a4bccce5cbf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Youtube/Artificial Anthem/Agenda/2024-09-25 Sortie Dans les entrailles du vaisseau perdu 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
-            "id": "5c9ff6edc8e27799",
+            "id": "71cbb0512195576f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-01 Sortie Boxes Lost Fragment Chapitre 2 je démonte des boites 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d1b5a9607f2aaa0b",
@@ -99,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "c9b36bc99d344235",
@@ -141,36 +138,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1fc914b0fc4a1987",
+  "active": "71cbb0512195576f",
   "lastOpenFiles": [
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-25 Sortie Dans les entrailles du vaisseau perdu.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-25 Sortie Dans les entrailles du vaisseau perdu 1.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-27 Sortie Un ciel sans fin.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-29 Sortie Mini sub.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-03 Sortie Moon.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-01 Sortie Moon Une aventure souterraine.md",
-    "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-01 Sortie Boxes Lost Fragment Chapitre 2 je démonte des boites.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-01 Sortie Boxes Lost Fragment Chapitre 2 je démonte des boites 1.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-22 Sortie Boxes Lost Fragment Chapitre 5 il était une fin..md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-15 Sortie Boxes Lost Fragment Chapitre 4 On progresse vers la sortie..md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-08 Sortie Boxes Lost Fragment Chapitre 3 des boites des boites.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-05 Sortie 1 Jeu = 1 Heure On découvre et on construit des folie..md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-29 Sortie 1 Jeu = 1 Heure On se retrouve en Grèce antique.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-19 Sortie 1 Jeu = 1 Heure On entre dans un univers de souffrance.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-26 Sortie 1 Jeu = 1 Heure Paris Transylvania Des billes, des cartes et des vampires.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-05-03 Sortie 1 Jeu = 1 Heure  Vault of power on joue les stratèges.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-08-09 Sortie Notre usine à calamars un projet qui a failli capoter.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-08-12 Sortie Sous Terre et en Surface Connection a l'usine a squid 1.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-09-06 Sortie KSP carrière PiafTech  Episode 1 1.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-09-27 Sortie KSP carrière PiafTech  Episode 4.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-09-13 Sortie KSP carrière PiafTech  Episode 2.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-09-20 Sortie KSP carrière PiafTech  Episode 3.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-19 Sortie Stradi.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-04 Sortie KSP carrière PiafTech  Episode 5.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-01 Sortie Une aventure souterraine.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-01 Sortie Une aventure souterraine.md",
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-23 Sortie Mélodique life 1.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-25 Sortie Dans les entrailles du vaisseau perdu.md",
+    "Pro/Youtube/Artificial Anthem/Agenda/2024-09-27 Sortie Un ciel sans fin.md",
     "Pro/Youtube/Artificial Anthem/Agenda",
-    "Pro/Youtube/Artificial Anthem/Sans titre.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
-    "README.md",
-    "Excalidraw/Drawing 2024-10-03 14.05.51.excalidraw.md",
     "Excalidraw",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda",
     "Pro/Developpement/Boite a idee",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Sans titre",
