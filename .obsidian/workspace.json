@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -201,17 +197,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0b7edaacc847471a",
+  "active": "a44c6fa9e1838523",
   "lastOpenFiles": [
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Builder of Greece.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Contraptions 2.md",
