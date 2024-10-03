@@ -30,8 +30,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
-                    "mode": "source",
+                    "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md"
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md"
               }
             }
           }
@@ -201,10 +201,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "31965652bc8d35a8",
+  "active": "0b7edaacc847471a",
   "lastOpenFiles": [
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
