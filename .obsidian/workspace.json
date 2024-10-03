@@ -25,27 +25,35 @@
                 }
               },
               {
-                "id": "0b7edaacc847471a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "3ecf691fc078c25f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
+                    "file": "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
                     "mode": "source",
                     "source": false
                   }
+                }
+              },
+              {
+                "id": "30f6cfbeb50b92d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c9be166074dae254",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
@@ -98,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#youtube/phoenixnoiroffi/agenda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,20 +184,19 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -197,15 +204,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a44c6fa9e1838523",
+  "active": "fa852cebe3e1765f",
   "lastOpenFiles": [
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-10-03 14.05.51.excalidraw.md",
+    "Excalidraw",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-04 Sortie KSP carrière PiafTech  Episode 5.md",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Youtube/Artificial Anthem/Musique/Prompte/Aventure souterraine.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-18 Sortie KSP carrière PiafTech Episode 7.md",
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Youtube/Artificial Anthem/Artificial Anthem.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Incision.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Boxes Lost Fragment.md",
@@ -214,19 +227,14 @@
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/The Fate of Baldr.md",
     "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Vault of Power.md",
     "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-04 Sortie KSP carrière PiafTech  Episode 5.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-11 Sortie KSP carrière PiafTech Episode 6.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda",
     "Pro/Youtube/PhoenixnoirOffi/2024-10-01 vfcb.md",
     "Pro/Youtube/PhoenixnoirOffi/2024-10-01 nbv n.md",
     "Pro/Developpement/Boite a idee/Boite a idee.md",
     "Pro/Developpement/Developpement.md",
     "Pro/Developpement/Java/Java.md",
-    "Pro/Developpement/Java/Minecraft/Minecraft.md",
     "Pro/Developpement/Boite a idee",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Sans titre",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda",
     "Pro/Developpement/Java/Minecraft",
@@ -234,7 +242,6 @@
     "Pro/Mediegame/Musique/Prompte",
     "Pro/Mediegame/Musique",
     "Pro/Mediegame/Youtube/Playtest",
-    "Pro/Mediegame/Twitch",
     "Sans titre.canvas"
   ]
 }
