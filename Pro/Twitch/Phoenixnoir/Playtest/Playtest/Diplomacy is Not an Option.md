@@ -25,7 +25,7 @@ AR9WH-EAV75-WNHHJ
 								LIEN STEAM / AFFILIER
 ********************************************************************************
 
-https://store.steampowered.com/app/3043710/Diplomacy_is_Not_an_Option_Shareware/?curator_clanid=44003205
+https://store.steampowered.com/app/3043710/Diplomacy_is_Not_an_Option_Shareware
 https://lurk.ly/rsAjYm
 
 

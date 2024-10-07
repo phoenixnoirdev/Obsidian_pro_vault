@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md"
+              }
             }
           }
         ]
@@ -177,7 +181,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "97833266ded30dc2",
+  "active": "8ceb7a20d3178620",
   "lastOpenFiles": [
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Youtube/Artificial Anthem/Agenda/2024-10-07 Sortie Ocean.md",
