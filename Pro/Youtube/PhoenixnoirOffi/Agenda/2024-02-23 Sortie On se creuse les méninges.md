@@ -1,11 +1,12 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : On entre dans un univers de souffrance"
+title: Sortie On se creuse les méninges
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2024-04-19
+date: 2024-02-23
 completed: 
 tags:
   - agendaytphoenixnoiroffi
+  - Boxes-Lost-Fragment
   - 1-jeu-1-heure
 ---

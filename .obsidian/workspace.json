@@ -4,41 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b5a9607f2aaa0b",
+        "id": "e45cefdf036f9bfc",
         "type": "tabs",
-        "dimension": 74.35105067985167,
+        "dimension": 81.64400494437577,
         "children": [
           {
-            "id": "d12386c165391b85",
+            "id": "657e9cf9c1b7e0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ceb7a20d3178620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "259066faa2ee5056",
         "type": "tabs",
-        "dimension": 25.648949320148333,
+        "dimension": 18.355995055624227,
         "children": [
           {
             "id": "97833266ded30dc2",
@@ -79,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#minecraft",
+                "query": "tag:#aFaire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md"
+                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md"
               }
             }
           }
@@ -181,8 +168,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8ceb7a20d3178620",
+  "active": "657e9cf9c1b7e0fd",
   "lastOpenFiles": [
+    "Pro/Mediegame/Twitch/Playtest/Playtest.md",
+    "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
+    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Mediegame/Twitch/Playtest",
+    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
+    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-01 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50 1.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-05 Sortie On découvre et on construit des folie..md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-19 Sortie On entre dans un univers de souffrance.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-29 Sortie On se retrouve en Grèce antique.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2023-11-04 Sortie On pose le pied sur Mars et on découvre un nouveau monde.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2023-10-20 Sortie Découvertes de Voodolls.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-02-23 Sortie On se creuse les méninges.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-05-03 Sortie Vault of power on joue les stratèges.md",
+    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-26 Sortie Paris Transylvania Des billes, des cartes et des vampires.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Youtube/Artificial Anthem/Agenda/2024-10-07 Sortie Ocean.md",
     "Pro/Youtube/Artificial Anthem/Agenda/2024-10-05 Sortie Nighty.md",
@@ -191,24 +195,8 @@
     "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-01 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50 1.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-02 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50.md",
     "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-06 Sortie Monument Je suis charlie (Nuit) sur l'été indien par Toutoun50.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-09 Sortie Monument Je suis charlie (Jour) sur Ouroboros par Kevin MacLeod.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-29 Sortie Glass Tower Nuit sur Crisis par Kevin MacLeod.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-05-04 Sortie Glass Tower Jour sur The Builder par Kevin MacLeod.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-06-15 Sortie La BioSphère de l'enchanteur du Vide (Nuit) sur Salut les amoureux par Toutoun50.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-06-17 Sortie La BioSphere de l'enchanteur du Vide (Jour) sur Over The Edge par XRS.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-07-02 Sortie Ville du spawn de la map survie sur le serveur Drak Game (nuit) sur The Complex par Kevin MaCleod.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-07-14 Sortie Ville du spawn de la map survie sur le serveur Drak Game (Jour) sur Endless par XRS.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-08-31 Sortie Arene TNTRun Mederna sur Drak Game (Jour) sur Umpire -Gravity de NoCopyrightSounds.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-09-07 Sortie Arene TNTRun LavaCoeur sur Electro Light ft  Kathryn MacLean The Edge NCS Release de NoCopyrightSo.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-09-29 Sortie Navette (nuit) sur Warptech feat Cory Friesenhan Resolution par NoCopyrightSounds.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-10-06 Sortie Navette (jour) sur Battle Scars par XRS.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-12-31 Sortie Arene Quake SupernovaeBattle sur Drak Game sur Ice Flow par Kevin Macleod.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2016-01-05 Sortie Arene PVE L'antichambre du mal (Nuit) sur Upstep de purple planet.md",
     "Pro/Youtube/Artificial Anthem/Agenda",
     "Excalidraw",
     "Pro/Youtube/PhoenixnoirOffi/Agenda",
@@ -218,7 +206,6 @@
     "Pro/Developpement/Java/Minecraft",
     "Pro/Developpement/Java",
     "Pro/Mediegame/Musique/Prompte",
-    "Pro/Mediegame/Musique",
     "Sans titre.canvas"
   ]
 }

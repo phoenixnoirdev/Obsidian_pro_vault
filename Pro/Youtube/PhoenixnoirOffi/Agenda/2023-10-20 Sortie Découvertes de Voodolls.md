@@ -1,9 +1,9 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : On se retrouve en Grèce antique"
+title: Sortie Découvertes de Voodolls
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2024-03-29
+date: 2023-10-20
 completed: 
 tags:
   - agendaytphoenixnoiroffi

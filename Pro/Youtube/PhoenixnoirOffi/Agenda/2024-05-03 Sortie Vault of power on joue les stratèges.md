@@ -1,5 +1,5 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : Vault of power on joue les stratèges"
+title: "Sortie Heure : Vault of power on joue les stratèges"
 allDay: false
 startTime: 18:30
 endTime: 18:30

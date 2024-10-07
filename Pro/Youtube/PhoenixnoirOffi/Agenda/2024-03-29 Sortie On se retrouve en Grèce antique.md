@@ -1,9 +1,9 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : Paris Transylvania Des billes, des cartes et des vampires ^^"
+title: Sortie On se retrouve en Grèce antique
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2024-04-26
+date: 2024-03-29
 completed: 
 tags:
   - agendaytphoenixnoiroffi

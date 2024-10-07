@@ -1,9 +1,9 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : On pose le pied sur Mars et on découvre un nouveau monde"
+title: Sortie Paris Transylvania Des billes, des cartes et des vampires ^^
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2023-11-04
+date: 2024-04-26
 completed: 
 tags:
   - agendaytphoenixnoiroffi

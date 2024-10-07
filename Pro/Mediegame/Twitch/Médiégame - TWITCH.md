@@ -8,6 +8,8 @@ N'hésitez pas à prendre une place et profitez des différents jeux qui sont pr
 
 [Twitch](https://www.twitch.tv/mediegame)
 
+Emission:
+- [[Pro/Mediegame/Twitch/Playtest/Playtest|Playtest]]
 
 
 

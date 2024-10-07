@@ -1,12 +1,11 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : On se creuse les méninges"
+title: "Sortie Diplomacy is Not an Option : Défendez votre château contre des milliers d'ennemis"
 allDay: false
 startTime: 18:30
 endTime: 18:30
-date: 2024-02-23
+date: 2024-10-08
 completed: 
 tags:
   - agendaytphoenixnoiroffi
-  - Boxes-Lost-Fragment
   - 1-jeu-1-heure
 ---

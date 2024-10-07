@@ -1,5 +1,5 @@
 ---
-title: "Sortie 1 Jeu = 1 Heure : On découvre et on construit des folie."
+title: Sortie On découvre et on construit des folie.
 allDay: false
 startTime: 18:30
 endTime: 18:30
