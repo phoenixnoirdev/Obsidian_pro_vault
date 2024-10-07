@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "bc109e78a9104fe6",
+            "id": "7d0f806c1a335cb5",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,38 +153,38 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bc109e78a9104fe6",
+  "active": "7d0f806c1a335cb5",
   "lastOpenFiles": [
+    "Pro/Mediegame/Youtube/Agenda/2023-11-10 Sortie Phoenixnoir pose le pied sur Mars et on découvre un nouveau monde.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-10-15 Sortie Défendez votre château contre des milliers d'ennemis avec  @phoenixnoirOffi.md",
+    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
+    "Pro/Mediegame/Twitch/Playtest/Playtest.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Mediegame/Youtube/Agenda/2023-10-20 Sortie Phoenixnoir  en pleine découverte de Voodolls.md",
+    "Pro/Vidéo/Playtest/Playtest.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-04-14 Sortie  @phoenixnoirOffi  défend son vaisseau de toute ses forces sur The Fate Of Baldr.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-04-28 Sortie @phoenixnoirOffi  combat a coup de bille et de carte.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-05-05 Sortie  @phoenixnoirOffi  en mode stratégie et gestion de skills.md",
+    "Pro/Mediegame/Youtube/Médiégame - YT.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-04-02 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50.md",
     "Pro/Mediegame/Médiégame.md",
-    "Pro/Mediegame/Youtube/Médiégame - YT.md",
     "Pro/Mediegame/Youtube/Agenda",
     "Pro/Vidéo/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
-    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
-    "Pro/Vidéo/Playtest/Playtest.md",
     "Pro/Vidéo/Playtest/Playtest Blanc.md",
     "Pro/Vidéo/Twitch/Phoenixnoir/Phoenixnoir.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Artificial Anthem.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest/Playtest.md",
     "Pro/Vidéo/Playtest/Playtest/The Fate of Baldr.md",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
-    "Pro/Mediegame/Twitch/Playtest/Playtest.md",
     "Pro/Mediegame/Twitch/Playtest",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-04-01 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50 1.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-04-05 Sortie On découvre et on construit des folie..md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-04-19 Sortie On entre dans un univers de souffrance.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-03-29 Sortie On se retrouve en Grèce antique.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2023-11-04 Sortie On pose le pied sur Mars et on découvre un nouveau monde.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2023-10-20 Sortie Découvertes de Voodolls.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-02-23 Sortie On se creuse les méninges.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda",
     "Excalidraw",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",

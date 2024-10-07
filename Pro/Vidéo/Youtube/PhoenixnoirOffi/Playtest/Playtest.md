@@ -1,9 +1,5 @@
 Regroupement des info concernant les playtests.
 
-Model de fichier
-- [[Playtest Blanc]]
-
-
 Liste des playtests
 - [[Builder of Greece]]
 - [[Boxes Lost Fragment]]
