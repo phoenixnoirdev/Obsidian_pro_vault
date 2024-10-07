@@ -8,10 +8,10 @@ Un passionné de Minecraft qui vous invite à rejoindre l'aventure, y compris de
 
 
 Musique:
-- [[Pro/Twitch/Phoenixnoir/Musique/Musique|Musique]]
+- [[Pro/Vidéo/Twitch/Phoenixnoir/Musique/Musique|Musique]]
 
 Emission
-- [[Pro/Twitch/Phoenixnoir/Playtest/Playtest]]
+- [[Pro/Vidéo/Twitch/Phoenixnoir/Playtest/Playtest|Playtest]]
 
 #twitch
 

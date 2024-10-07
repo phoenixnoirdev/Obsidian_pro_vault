@@ -2,33 +2,18 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#338000",
-      "directory": "Pro/Mediegame"
-    },
-    {
-      "type": "local",
-      "color": "#9000ad",
-      "directory": "Pro/Twitch/Phoenixnoir"
-    },
-    {
-      "type": "local",
-      "color": "#930fc2",
-      "directory": "Pro/Mediegame/Twitch"
-    },
-    {
-      "type": "local",
-      "color": "#1d6100",
-      "directory": "Pro/Mediegame/Youtube"
+      "color": "#04af8d",
+      "directory": "Pro/Vidéo/Youtube/Artificial Anthem/Agenda"
     },
     {
       "type": "local",
       "color": "#00b4ff",
-      "directory": "Pro/Youtube/PhoenixnoirOffi/Agenda"
+      "directory": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda"
     },
     {
       "type": "local",
-      "color": "#04af8d",
-      "directory": "Pro/Youtube/Artificial Anthem/Agenda"
+      "color": "#bbff00",
+      "directory": "Pro/Mediegame/Youtube/Agenda"
     }
   ],
   "defaultCalendar": 0,

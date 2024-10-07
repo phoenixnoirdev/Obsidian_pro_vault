@@ -10,6 +10,6 @@ Si tu souhaite être tenue au courant des dernières vidéos mise en ligne ou si
 
 
 Emission:
-- [[Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest|Playtest]]
+- [[Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest|Playtest]]
 
 #youtube #agendaytphoenixnoiroffi

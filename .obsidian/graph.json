@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Pro/Youtube/PhoenixnoirOffi  ",
+      "query": "path:Pro/Vidéo/Youtube/PhoenixnoirOffi  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Pro/Youtube/Artificial Anthem\"  ",
+      "query": "path:\"Pro/Vidéo/Youtube/Artificial Anthem\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:Pro/Twitch/Phoenixnoir  ",
+      "query": "path:Pro/Vidéo/Twitch/Phoenixnoir  ",
       "color": {
         "a": 1,
         "rgb": 8871126
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:Pro/Vidéo/Playtest  ",
+      "color": {
+        "a": 1,
+        "rgb": 6971643
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 0.744791666666667,
   "linkDistance": 30,
-  "scale": 0.05932617187500062,
+  "scale": 0.08317427835927599,
   "close": true
 }

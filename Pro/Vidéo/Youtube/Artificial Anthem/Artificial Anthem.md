@@ -11,7 +11,7 @@ Que vous soyez un passionné de musique ou simplement curieux de découvrir comm
 
 
 
-- [[Pro/Youtube/Artificial Anthem/Musique/Musique|Musique]]
+- [[Pro/Vidéo/Youtube/Artificial Anthem/Musique/Musique|Musique]]
 
 #youtube #agendaytartifcial-anthem
 

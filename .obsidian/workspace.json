@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e45cefdf036f9bfc",
-        "type": "tabs",
-        "dimension": 81.64400494437577,
-        "children": [
-          {
-            "id": "657e9cf9c1b7e0fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "259066faa2ee5056",
         "type": "tabs",
-        "dimension": 18.355995055624227,
         "children": [
           {
             "id": "97833266ded30dc2",
@@ -36,8 +16,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "bc109e78a9104fe6",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md"
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md"
               }
             }
           }
@@ -168,44 +157,44 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "657e9cf9c1b7e0fd",
+  "active": "bc109e78a9104fe6",
   "lastOpenFiles": [
-    "Pro/Mediegame/Twitch/Playtest/Playtest.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-04-02 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50.md",
+    "Pro/Mediegame/Médiégame.md",
+    "Pro/Mediegame/Youtube/Médiégame - YT.md",
+    "Pro/Mediegame/Youtube/Agenda",
+    "Pro/Vidéo/Playtest/Playtest/Diplomacy is Not an Option.md",
+    "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
-    "Pro/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Mediegame/Youtube/Playtest/Playtest.md",
+    "Pro/Vidéo/Playtest/Playtest.md",
+    "Pro/Vidéo/Playtest/Playtest Blanc.md",
+    "Pro/Vidéo/Twitch/Phoenixnoir/Phoenixnoir.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Musique/Musique.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Artificial Anthem.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Vidéo/Twitch/Phoenixnoir/Playtest/Playtest.md",
+    "Pro/Vidéo/Playtest/Playtest/The Fate of Baldr.md",
+    "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
+    "Pro/Vidéo",
+    "Pro/Mediegame/Twitch/Playtest/Playtest.md",
     "Pro/Mediegame/Twitch/Playtest",
-    "Pro/Twitch/Phoenixnoir/Playtest/Playtest/Diplomacy is Not an Option.md",
-    "Pro/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-01 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50 1.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-05 Sortie On découvre et on construit des folie..md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-19 Sortie On entre dans un univers de souffrance.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-03-29 Sortie On se retrouve en Grèce antique.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2023-11-04 Sortie On pose le pied sur Mars et on découvre un nouveau monde.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2023-10-20 Sortie Découvertes de Voodolls.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-02-23 Sortie On se creuse les méninges.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-05-03 Sortie Vault of power on joue les stratèges.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2024-04-26 Sortie Paris Transylvania Des billes, des cartes et des vampires.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-07 Sortie Ocean.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-05 Sortie Nighty.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-09 Sortie Phoénix.md",
-    "Pro/Youtube/Artificial Anthem/Agenda/2024-10-03 Sortie Moon.md",
-    "Pro/Youtube/Artificial Anthem/Musique/Musique.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-02 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50.md",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda/2015-04-06 Sortie Monument Je suis charlie (Nuit) sur l'été indien par Toutoun50.md",
-    "Pro/Youtube/Artificial Anthem/Agenda",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-04-01 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50 1.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-04-05 Sortie On découvre et on construit des folie..md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-04-19 Sortie On entre dans un univers de souffrance.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-03-29 Sortie On se retrouve en Grèce antique.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2023-11-04 Sortie On pose le pied sur Mars et on découvre un nouveau monde.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2023-10-20 Sortie Découvertes de Voodolls.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-02-23 Sortie On se creuse les méninges.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda",
     "Excalidraw",
-    "Pro/Youtube/PhoenixnoirOffi/Agenda",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",
     "Pro/Developpement/Boite a idee",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Sans titre",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda",
-    "Pro/Developpement/Java/Minecraft",
-    "Pro/Developpement/Java",
-    "Pro/Mediegame/Musique/Prompte",
     "Sans titre.canvas"
   ]
 }
