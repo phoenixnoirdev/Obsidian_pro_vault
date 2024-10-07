@@ -16,17 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7d0f806c1a335cb5",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +144,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7d0f806c1a335cb5",
+  "active": "31965652bc8d35a8",
   "lastOpenFiles": [
-    "Pro/Mediegame/Youtube/Agenda/2023-11-10 Sortie Phoenixnoir pose le pied sur Mars et on découvre un nouveau monde.md",
     "Pro/Mediegame/Youtube/Agenda/2024-10-15 Sortie Défendez votre château contre des milliers d'ennemis avec  @phoenixnoirOffi.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-10-15 Sortie Défendez votre château contre des milliers d'ennemis avec  @phoenixnoirOffi.md",
+    "Pro/Mediegame/Youtube/Agenda/2024-10-10 test.md",
+    "Pro/Mediegame/Youtube/Agenda/2023-11-10 Sortie Phoenixnoir pose le pied sur Mars et on découvre un nouveau monde.md",
     "Pro/Mediegame/Youtube/Playtest/Playtest.md",
     "Pro/Mediegame/Twitch/Playtest/Playtest.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
@@ -183,8 +176,6 @@
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
     "Pro/Mediegame/Twitch/Playtest",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-25 Sortie KSP carrière PiafTech Episode 8.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda",
     "Excalidraw",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",
