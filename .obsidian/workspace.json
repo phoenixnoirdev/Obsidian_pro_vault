@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
+                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
+                "file": "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,11 +175,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "99cb6256dea0bda4",
+  "active": "97833266ded30dc2",
   "lastOpenFiles": [
+    "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
+    "Pro/Developpement/Java/Minecraft/System_Link/Systeme_Link.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
+    "Pro/Developpement/Java/Minecraft/Minecraft.md",
+    "Pro/Developpement/Java/Minecraft/System_Link",
     "Pro/Mediegame/Youtube/Agenda/2024-10-15 Sortie Défendez votre château contre des milliers d'ennemis avec  @phoenixnoirOffi.md",
     "Pro/Mediegame/Youtube/Agenda/2024-10-15 Sortie Défendez votre château contre des milliers d'ennemis avec  @phoenixnoirOffi.md",
     "Pro/Mediegame/Youtube/Agenda/2024-10-10 test.md",
@@ -205,9 +205,6 @@
     "Pro/Vidéo/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Mediegame/Musique/Musique.md",
     "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
-    "Pro/Vidéo/Playtest/Playtest Blanc.md",
-    "Pro/Vidéo/Twitch/Phoenixnoir/Phoenixnoir.md",
-    "Pro/Vidéo/Youtube/Artificial Anthem/Musique/Musique.md",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
     "Pro/Mediegame/Twitch/Playtest",
@@ -216,7 +213,6 @@
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",
     "Pro/Developpement/Boite a idee",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Sans titre",
-    "Pro/Developpement/Java/Minecraft/Systeme_agenda",
     "Sans titre.canvas"
   ]
 }
