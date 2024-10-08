@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4b861f1e77f2993b",
@@ -125,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md"
+              }
             }
           }
         ]
@@ -175,8 +178,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "97833266ded30dc2",
+  "active": "113616ed9b6b286f",
   "lastOpenFiles": [
+    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt",
     "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
     "Pro/Developpement/Java/Minecraft/System_Link/Systeme_Link.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
@@ -204,7 +208,6 @@
     "Pro/Mediegame/Youtube/Agenda",
     "Pro/Vidéo/Playtest/Playtest/Diplomacy is Not an Option.md",
     "Pro/Mediegame/Musique/Musique.md",
-    "Pro/Mediegame/Twitch/Médiégame - TWITCH.md",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
     "Pro/Mediegame/Twitch/Playtest",

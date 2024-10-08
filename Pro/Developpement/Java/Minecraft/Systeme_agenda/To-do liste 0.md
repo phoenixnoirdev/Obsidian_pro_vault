@@ -11,5 +11,5 @@
 |  LINK  |   Cree commande de réception des nouveau events   |    X    |    X     |    X     |
 |  LINK  | Cree commande de réception des suppression events |    X    |    X     |    X     |
 |  LINK  |       Cree commande d'update des info event       |    X    |    X     |    X     |
-|  LINK  |      Prise en charge du dans le plugin Link       |    X    |          |          |
+|  LINK  |      Prise en charge du dans le plugin Link       |    X    |    X     |    X     |
 |        |                                                   |         |          |          |
