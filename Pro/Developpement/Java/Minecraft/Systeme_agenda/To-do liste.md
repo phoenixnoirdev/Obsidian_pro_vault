@@ -9,7 +9,7 @@
 |  BDD   |           Supprime un évent de la liste           |    X    |    X     |    X     |
 | THREAD |                   Upate les bdd                   |    X    |    X     |    X     |
 |  LINK  |   Cree commande de réception des nouveau events   |    X    |    X     |    X     |
-|  LINK  | Cree commande de réception des suppression events |    X    |    X     |          |
-|  LINK  |       Cree commande d'update des info event       |    X    |    X     |          |
+|  LINK  | Cree commande de réception des suppression events |    X    |    X     |    X     |
+|  LINK  |       Cree commande d'update des info event       |    X    |    X     |    X     |
 |        |                                                   |         |          |          |
 |        |                                                   |         |          |          |
