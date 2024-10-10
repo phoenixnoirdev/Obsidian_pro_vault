@@ -12,4 +12,4 @@
 |  LINK   |               Cree commande de réception des suppression events                |    X    |    X     |    X     |
 |  LINK   |                     Cree commande d'update des info event                      |    X    |    X     |    X     |
 |  LINK   |                     Prise en charge du dans le plugin Link                     |    X    |    X     |    X     |
-| UpEvent | Ajouter a la fonction upevent un option addevent si aucun event n'a été update |    X    |          |          |
+| UpEvent | Ajouter a la fonction upevent un option addevent si aucun event n'a été update |    X    |    X     |    X     |
