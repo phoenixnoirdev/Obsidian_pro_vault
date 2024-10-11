@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "259066faa2ee5056",
-        "type": "tabs",
-        "dimension": 62.85537700865266,
-        "children": [
-          {
-            "id": "113616ed9b6b286f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4b861f1e77f2993b",
         "type": "tabs",
-        "dimension": 37.14462299134734,
         "children": [
           {
             "id": "97833266ded30dc2",
@@ -66,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aFaire",
+                "query": "tag:#enCours",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,6 +147,10 @@
   },
   "active": "97833266ded30dc2",
   "lastOpenFiles": [
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-11 Sortie Stars.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-13 Sortie Ravage.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-09 Sortie Phoénix.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Artificial Anthem.md",
     "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
     "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
@@ -190,9 +175,6 @@
     "Pro/Mediegame/Youtube/Agenda/2024-05-05 Sortie  @phoenixnoirOffi  en mode stratégie et gestion de skills.md",
     "Pro/Mediegame/Youtube/Médiégame - YT.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-04-02 Sortie Arene Carriere de cristaux (Nuit) sur  Les Deux Guitares Stream de Toutoun50.md",
-    "Pro/Mediegame/Médiégame.md",
     "Pro/Mediegame/Youtube/Agenda",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
