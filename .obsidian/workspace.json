@@ -16,54 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "e588814a1a4b136a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f5bcb1063c3f672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877e613c2065ff9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/DNO - C'est du gâteau pour du popcorn et de la bière.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5e1f1e7082fdfaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -197,20 +149,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "copilot:Copilot Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "a164a75fa1ca884a",
   "lastOpenFiles": [
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-08 Sortie Diplomacy is Not an Option Défendez votre château contre des milliers d'ennemis.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/DNO - C'est du gâteau pour du popcorn et de la bière.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 6.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 5.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 4.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 3.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 2.md",
@@ -219,7 +169,6 @@
     "smart-chats/test gpt.md",
     "smart-chats",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/Diplomacy is Not an Option.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-09-06 Sortie KSP carrière PiafTech  Episode 1.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-09-13 Sortie KSP carrière PiafTech  Episode 2.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option",
