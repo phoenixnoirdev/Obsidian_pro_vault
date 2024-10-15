@@ -28,9 +28,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dbe18c99ff7af3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/Diplomacy is Not an Option.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fd4720959d30ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md"
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md"
               }
             }
           }
@@ -161,11 +185,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d2fccc5e2a212abf",
+  "active": "9fd4720959d30ab0",
   "lastOpenFiles": [
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/Diplomacy is Not an Option.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-09-13 Sortie KSP carrière PiafTech  Episode 2.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/DNO - C'est du gâteau pour du popcorn et de la bière.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program",
     "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
@@ -187,18 +218,11 @@
     "Pro/Mediegame/Youtube/Agenda/2023-11-10 Sortie Phoenixnoir pose le pied sur Mars et on découvre un nouveau monde.md",
     "Pro/Mediegame/Youtube/Playtest/Playtest.md",
     "Pro/Mediegame/Twitch/Playtest/Playtest.md",
-    "Pro/Mediegame/Youtube/Agenda/2023-10-20 Sortie Phoenixnoir  en pleine découverte de Voodolls.md",
-    "Pro/Vidéo/Playtest/Playtest.md",
-    "Pro/Mediegame/Youtube/Agenda/2024-04-14 Sortie  @phoenixnoirOffi  défend son vaisseau de toute ses forces sur The Fate Of Baldr.md",
-    "Pro/Mediegame/Youtube/Agenda/2024-04-28 Sortie @phoenixnoirOffi  combat a coup de bille et de carte.md",
-    "Pro/Mediegame/Youtube/Agenda/2024-05-05 Sortie  @phoenixnoirOffi  en mode stratégie et gestion de skills.md",
     "Pro/Mediegame/Youtube/Agenda",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
     "Pro/Mediegame/Twitch/Playtest",
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda",
-    "Excalidraw",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",
     "Sans titre.canvas"
   ]
 }

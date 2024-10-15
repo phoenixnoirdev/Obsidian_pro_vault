@@ -2,5 +2,6 @@
 Regroupement des info concernant le Série
 
 Liste des séries:
-- KSP carrière PiafTech
--  Diplomacy is Not an Option 100 jours 
+- [[Kerbal space program]]
+- [[Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option/Diplomacy is Not an Option]]
+- 
