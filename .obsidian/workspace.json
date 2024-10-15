@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md"
+                "file": "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md"
               }
             }
           }
@@ -163,11 +163,15 @@
   },
   "active": "d2fccc5e2a212abf",
   "lastOpenFiles": [
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/PhoenixnoirOffi.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/To-do liste 0.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
     "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/Systeme_TreasurHunt.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-11 Sortie Stars.md",
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-13 Sortie Ravage.md",
@@ -183,14 +187,11 @@
     "Pro/Mediegame/Youtube/Agenda/2023-11-10 Sortie Phoenixnoir pose le pied sur Mars et on découvre un nouveau monde.md",
     "Pro/Mediegame/Youtube/Playtest/Playtest.md",
     "Pro/Mediegame/Twitch/Playtest/Playtest.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Mediegame/Youtube/Agenda/2023-10-20 Sortie Phoenixnoir  en pleine découverte de Voodolls.md",
     "Pro/Vidéo/Playtest/Playtest.md",
     "Pro/Mediegame/Youtube/Agenda/2024-04-14 Sortie  @phoenixnoirOffi  défend son vaisseau de toute ses forces sur The Fate Of Baldr.md",
     "Pro/Mediegame/Youtube/Agenda/2024-04-28 Sortie @phoenixnoirOffi  combat a coup de bille et de carte.md",
     "Pro/Mediegame/Youtube/Agenda/2024-05-05 Sortie  @phoenixnoirOffi  en mode stratégie et gestion de skills.md",
-    "Pro/Mediegame/Youtube/Médiégame - YT.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2015-08-27 Sortie Arene TNTRun Mederna sur Drak Game (Nuit) sur Disfigure Blank de NoCopyrightSounds.md",
     "Pro/Mediegame/Youtube/Agenda",
     "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
     "Pro/Vidéo",
@@ -198,7 +199,6 @@
     "Pro/Vidéo/Youtube/Artificial Anthem/Agenda",
     "Excalidraw",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda",
-    "Pro/Developpement/Boite a idee",
     "Sans titre.canvas"
   ]
 }
