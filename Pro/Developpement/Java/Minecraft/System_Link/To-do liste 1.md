@@ -8,7 +8,7 @@
 | Syteme_Agenda |        Prise en charge de la fonction removeevent         |    X    |    X     |    X     |   0.0.1   |
 | Syteme_Agenda |          Prise en charge de la fonction upevent           |    X    |    X     |    X     |   0.0.1   |
 |               |                *==**Passage en 0.0.2**==*                 |         |          |          |           |
-|      All      | Optimisation du message d'erreur de load<br>0.0.1 - 0.0.2 |    X    |    X     |          | <br>0.0.2 |
+|      All      | Optimisation du message d'erreur de load<br>0.0.1 - 0.0.2 |    X    |    X     |    X     | <br>0.0.2 |
 |               |                                                           |         |          |          |           |
 |               |                                                           |         |          |          |           |
 |               |                                                           |         |          |          |           |
