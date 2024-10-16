@@ -8,3 +8,5 @@ Liste des épisode:
 - [[KSP carrière PiafTech - Episode 6]]
 - KSP carrière PiafTech - Episode 7
 - KSP carrière PiafTech - Episode 8
+- KSP carrière PiafTech - Episode 9
+- KSP carrière PiafTech - Episode 10
