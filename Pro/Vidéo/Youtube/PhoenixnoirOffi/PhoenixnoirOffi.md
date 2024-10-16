@@ -13,4 +13,7 @@ Emission/Série:
 - [[Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest|Playtest]]
 - [[Série]]
 
+Autre sources:
+- [[Question pour la communauter]]
+
 #youtube #agendaytphoenixnoiroffi
