@@ -8,6 +8,6 @@
 | Info  |                                       Ajout des Doxygene                                        |    X    |    X     |          |  0.0.2  |
 | Clean |                               Nettoyage du code et mise en norme                                |    X    |    X     |          |  0.0.2  |
 | Zone  | Ajout d'une data de zone de jeu afin de preciser ou le joueur se trouve ex: lobby/survie/tntrun |    X    |    X     |    X     |  0.0.2  |
-| Link  |        Fonction "getzone" pour renvoyer l'information de la zone ou se trouve le joueur         |    X    |          |          |  0.0.2  |
-| Link  |        Fonction "setzone" pour renvoyer l'information de la zone ou se trouve le joueur         |    X    |          |          |  0.0.2  |
-| Link  |         Fonction getzone quit qui envoie l'information lors de la déconnexion du joueur         |    X    |          |          |  0.0.2  |
+| Link  |        Fonction "getzone" pour renvoyer l'information de la zone ou se trouve le joueur         |    X    |    X     |    X     |  0.0.2  |
+| Link  |        Fonction "setzone" pour renvoyer l'information de la zone ou se trouve le joueur         |    X    |    X     |    X     |  0.0.2  |
+| Link  |         Fonction getzone quit qui envoie l'information lors de la déconnexion du joueur         |    X    |    X     |    X     |  0.0.2  |
