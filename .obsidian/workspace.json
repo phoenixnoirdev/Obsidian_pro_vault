@@ -14,10 +14,35 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "258682f9406a7031",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c47933cd73997451",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -37,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -52,7 +79,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -60,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -85,7 +116,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -101,7 +134,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -112,7 +147,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
             }
           },
           {
@@ -120,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Plan"
             }
           },
           {
@@ -128,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ],
@@ -152,8 +193,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a164a75fa1ca884a",
+  "active": "c47933cd73997451",
   "lastOpenFiles": [
+    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-17 Sortie Bande Annonce 2024.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 6.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Série.md",
@@ -184,7 +226,6 @@
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
     "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/Systeme_TreasurHunt.md",
     "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt",
     "Pro/Developpement/Java/Minecraft/System_Link",
     "Pro/Mediegame/Youtube/Agenda",
