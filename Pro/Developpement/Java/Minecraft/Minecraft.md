@@ -6,4 +6,5 @@ Regroupe les différents projet Minecraft (Plugins)
 - [[Systeme_TreasurHunt]]
 - [[Systeme_JoinQuit]]
 - [[Systeme_Compteur]]
+- [[Systeme_Lobby]]
 - 

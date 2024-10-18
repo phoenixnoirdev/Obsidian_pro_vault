@@ -10,8 +10,8 @@
 |                 |                *==**Passage en 0.0.2**==*                 |         |          |          |           |
 |       All       | Optimisation du message d'erreur de load<br>0.0.1 - 0.0.2 |    X    |    X     |    X     | <br>0.0.2 |
 |                 |                *==**Passage en 0.0.3**==*                 |         |          |          |           |
-| System_Compteur |            Prise ne charge du plugin compteur             |    X    |          |          |   0.0.3   |
-| System_Compteur |        Prise en charge de la fonction "addcomtpe"         |    X    |          |          |   0.0.3   |
-| System_Compteur |       Prise en charge de la fonction "removecomtpe"       |    X    |          |          |   0.0.3   |
-|      Info       |                    Ajout des Doxygene                     |    X    |    X     |          |   0.0.2   |
+| System_Compteur |            Prise ne charge du plugin compteur             |    X    |    X     |    X     |   0.0.3   |
+| System_Compteur |        Prise en charge de la fonction "addcomtpe"         |    X    |    X     |    X     |   0.0.3   |
+| System_Compteur |       Prise en charge de la fonction "removecomtpe"       |    X    |    X     |    X     |   0.0.3   |
+|      Info       |        Ajout des Doxygene<br>0.0.1 - 0.0.2 - 0.0.3        |    X    |    X     |          |   0.0.3   |
 |                 |                                                           |         |          |          |           |
