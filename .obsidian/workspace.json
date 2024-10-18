@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b861f1e77f2993b",
+        "id": "18c5f597fcd0e0dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a164a75fa1ca884a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "258682f9406a7031",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "eaf8e063dce918a0",
+            "id": "270a5d18501f6f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +21,7 @@
               "title": "To-do liste 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/System_Compteur/To-do liste 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour To-do liste 3"
+              "title": "Rétroliens"
             }
           },
           {
@@ -148,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro/Developpement/Java/Minecraft/System_Compteur/To-do liste 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de To-do liste 3"
+              "title": "Liens sortants"
             }
           },
           {
@@ -161,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pro/Developpement/Java/Minecraft/System_Compteur/To-do liste 3.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de To-do liste 3"
+              "title": "Plan"
             }
           },
           {
@@ -199,13 +172,129 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eaf8e063dce918a0",
+  "floating": {
+    "id": "b2a91e8974939d4d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d73019f66fcb4eb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "07fa2444f252cf48",
+            "type": "tabs",
+            "dimension": 78.4375,
+            "children": [
+              {
+                "id": "a164a75fa1ca884a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Vue graphique"
+                }
+              }
+            ]
+          },
+          {
+            "id": "85917cde1fd4503d",
+            "type": "tabs",
+            "dimension": 21.5625,
+            "children": [
+              {
+                "id": "258682f9406a7031",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {},
+                  "icon": "calendar-glyph",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 247,
+        "y": -952,
+        "width": 1318,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "96f3e325468c663b",
+        "type": "window",
+        "children": [
+          {
+            "id": "39f02c9acfd6e7e6",
+            "type": "split",
+            "children": [
+              {
+                "id": "0536212b68cc33ac",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5d52f5657e7a722d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "full-calendar-view",
+                      "state": {},
+                      "icon": "calendar-glyph",
+                      "title": "Calendar"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d7c84b754c13e142",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "76c7aa2760a690e7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "full-calendar-view",
+                      "state": {},
+                      "icon": "calendar-glyph",
+                      "title": "Calendar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 1124,
+        "y": -1061,
+        "width": 960,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a164a75fa1ca884a",
   "lastOpenFiles": [
     "Pro/Developpement/Java/Minecraft/System_Compteur/To-do liste 3.md",
     "Pro/Developpement/Java/Minecraft/System_Compteur/Systeme_Compteur.md",
-    "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
-    "Pro/Developpement/Java/Minecraft/System_Compteur",
+    "Untitled Kanban.md",
+    "Sans titre.canvas",
+    "Pro/Developpement/Java/Minecraft/System_JoinQuit/To-do liste 4.md",
+    "Pro/Developpement/Java/Minecraft/Minecraft.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/Systeme_TreasurHunt.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Systeme_agenda.md",
+    "Pro/Developpement/Java/Minecraft/Systeme_agenda/Base de données.md",
     "Pro/Developpement/Java/Minecraft/System_Link/Systeme_Link.md",
+    "Pro/Developpement/Java/Minecraft/System_JoinQuit/Systeme_JoinQuit.md",
+    "Pro/Developpement/Java/Minecraft/System_Link/To-do liste 1.md",
+    "Pro/Developpement/Java/Minecraft/System_JoinQuit",
+    "Pro/Developpement/Java/Minecraft/System_Compteur",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-10-17 Sortie Bande Annonce 2024.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 6.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
@@ -221,22 +310,13 @@
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 5.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 4.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 3.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 2.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 1.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech",
-    "smart-chats/test gpt.md",
     "smart-chats",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-09-06 Sortie KSP carrière PiafTech  Episode 1.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Agenda/2024-09-13 Sortie KSP carrière PiafTech  Episode 2.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Diplomacy is Not an Option",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Playtest/Playtest.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program",
-    "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt/To-do liste 2.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie",
     "Pro/Developpement/Java/Minecraft/Systeme_TreasurHunt",
     "Pro/Developpement/Java/Minecraft/System_Link",
-    "Pro/Mediegame/Youtube/Agenda",
-    "Pro/Vidéo/Twitch/Phoenixnoir/Playtest",
-    "Sans titre.canvas"
+    "Pro/Mediegame/Youtube/Agenda"
   ]
 }
