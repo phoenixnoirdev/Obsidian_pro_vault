@@ -1,2 +1,2 @@
 
-Regroupe les différente idée
+Regroupe les différentes idées
