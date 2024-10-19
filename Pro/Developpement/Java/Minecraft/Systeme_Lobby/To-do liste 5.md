@@ -7,4 +7,4 @@
 |   Link    |         Prise en charge de l'update du compteur survie + tntrun          |    X    |    X     |    X     |  0.0.1  |
 |   Link    |     Prise en charge de l'update de zone data player survie + tntrun      |    X    |    X     |    X     |  0.0.1  |
 |   Link    |          Prise en charge des commande tp vers survie et tntrun           |    X    |          |          |  0.0.1  |
-| Mecanique | Ajouter une fonction tp lobby qui permet de sortire des zone de mini jeu |    X    |          |          |  0.0.1  |
+| Mecanique | Ajouter une fonction tp lobby qui permet de sortire des zone de mini jeu |    X    |    X     |          |  0.0.1  |
