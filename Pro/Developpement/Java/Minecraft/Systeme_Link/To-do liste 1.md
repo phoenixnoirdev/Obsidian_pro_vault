@@ -16,3 +16,6 @@
 |       Info       |        Ajout des Doxygene<br>0.0.1 - 0.0.2 - 0.0.3        |    X    |    X     |          |   0.0.3   |
 | Systeme_joinQuit |          Prise en charge de la fonction getzone           |    X    |          |          |   0.0.3   |
 | Systeme_joinQuit |          Prise en charge de la fonction setzone           |    X    |    X     |    X     |   0.0.3   |
+|  Systeme_Lobby   |                 Prise en charge du pugin                  |    X    |          |          |   0.0.3   |
+|                  |                                                           |         |          |          |           |
+|                  |                                                           |         |          |          |           |
