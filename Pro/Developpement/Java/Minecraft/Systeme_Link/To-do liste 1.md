@@ -16,6 +16,10 @@
 |       Info       |        Ajout des Doxygene<br>0.0.1 - 0.0.2 - 0.0.3        |    X    |    X     |          |   0.0.3   |
 | Systeme_joinQuit |          Prise en charge de la fonction getzone           |    X    |    X     |    X     |   0.0.3   |
 | Systeme_joinQuit |          Prise en charge de la fonction setzone           |    X    |    X     |    X     |   0.0.3   |
-|  Systeme_Lobby   |                 Prise en charge du pugin                  |    X    |    X     |    X     |   0.0.3   |
+|  Systeme_Lobby   |                 Prise en charge du plugin                 |    X    |    X     |    X     |   0.0.3   |
 |  Systeme_Lobby   |             Prise de la fonction returnlobby              |    X    |    X     |    X     |   0.0.3   |
+|   Survie_Spawn   |                 Prise ne charge du plugin                 |    X    |    X     |    X     |   0.0.3   |
+|   Survie_Spawn   |           Prise en charge de la commande de tp            |    X    |    X     |    X     |   0.0.3   |
+|                  |                                                           |         |          |          |           |
+|                  |                                                           |         |          |          |           |
 |                  |                                                           |         |          |          |           |
