@@ -136,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Pro/Developpement/Java/Minecraft/Survie_Spawn/To-do liste 6.md"
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de To-do liste 6"
             }
           },
           {
@@ -279,10 +281,14 @@
       }
     ]
   },
-  "active": "a164a75fa1ca884a",
+  "active": "270a5d18501f6f80",
   "lastOpenFiles": [
-    "Pro/Developpement/Java/Minecraft/Survie_Spawn/To-do liste 6.md",
     "Pro/Developpement/Java/Minecraft/Systeme_Lobby/To-do liste 5.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-22 Sortie The smile.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-13 Sortie Ravage.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-11 Sortie Stars.md",
+    "Pro/Vidéo/Youtube/Artificial Anthem/Agenda/2024-10-21 Sortie The smile.md",
+    "Pro/Developpement/Java/Minecraft/Survie_Spawn/To-do liste 6.md",
     "Pro/Developpement/Java/Minecraft/Systeme_Link/To-do liste 1.md",
     "Pro/Developpement/Java/Minecraft/Systeme_JoinQuit/To-do liste 4.md",
     "Pro/Developpement/Java/Minecraft/Systeme_Compteur/To-do liste 3.md",
@@ -310,12 +316,7 @@
     "Pro/Developpement/Java/Minecraft/Systeme_JoinQuit/Systeme_JoinQuit.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière PiafTech.md",
     "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/Kerbal space program.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 7.md",
-    "Pro/Vidéo/Youtube/PhoenixnoirOffi/Serie/Kerbal space program/KSP carrière Piaftech/KSP carrière PiafTech - Episode 6.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_Link/Systeme_Link.md",
-    "Pro/Developpement/Java/Minecraft/Systeme_Compteur/Systeme_Compteur.md",
     "Pro/Developpement/Java/Minecraft/Systeme_Lobby",
-    "Untitled Kanban.md",
     "Sans titre.canvas",
     "Pro/Developpement/Java/Minecraft/Systeme_JoinQuit"
   ]
